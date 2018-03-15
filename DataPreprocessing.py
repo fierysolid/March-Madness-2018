@@ -399,8 +399,9 @@ years = range(1993,2019)
 saveYears = range(2014,2019)
 if os.path.exists("Data/PrecomputedMatrices/xTrain.npy") and os.path.exists("Data/PrecomputedMatrices/yTrain.npy"):
     print ('There is already a precomputed xTrain and yTrain.')
-    response = raw_input('Do you want to remove these files and create a new training set? (y/n) ')
+    response = input('Do you want to remove these files and create a new training set? (y/n) ')
     if (response == 'y'):
+        print ('Starting')
         os.remove("Data/PrecomputedMatrices/xTrain.npy")
         os.remove("Data/PrecomputedMatrices/yTrain.npy")
         createAndSave(years, saveYears)

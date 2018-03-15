@@ -1,0 +1,90 @@
+First round
+South:
+Probability that Virginia wins: 0.9727327273697047
+Probability that Kansas St wins: 0.6010152962287699
+Probability that Kentucky wins: 0.7827620823954632
+Probability that Arizona wins: 0.8232300089034219
+Probability that Miami FL wins: 0.6122092146060077
+Probability that Tennessee wins: 0.9649032332468344
+Probability that Nevada wins: 0.6290094548913332
+Probability that Cincinnati wins: 0.9463602726680923
+East:
+Probability that Villanova wins: 0.9938453562399878
+Probability that Virginia Tech wins: 0.5057388984030087
+Probability that West Virginia wins: 0.9125026457930312
+Probability that Wichita St wins: 0.8539604391568343
+Probability that Florida wins: 0.7274501070511356
+Probability that Texas Tech wins: 0.9204863875318954
+Probability that Arkansas wins: 0.6262621622290281
+Probability that Purdue wins: 0.9804113432906738
+West:
+Probability that Xavier wins: 1.0048818530375365
+Probability that Missouri wins: 0.5341753130872132
+Probability that Ohio St wins: 0.7695756163070401
+Probability that Gonzaga wins: 0.8904049405512869
+Probability that Houston wins: 0.7120555119835986
+Probability that Michigan wins: 0.8924013056814001
+Probability that Providence wins: 0.5076883099042251
+Probability that North Carolina wins: 0.963543910380484
+Midwest:
+Probability that Kansas wins: 0.9712592994178241
+Probability that Seton Hall wins: 0.6224313497813325
+Probability that Clemson wins: 0.7396885816608378
+Probability that Auburn wins: 0.9346683947438019
+Probability that TCU wins: 0.60651638808147
+Probability that Michigan St wins: 0.9495122660260253
+Probability that Rhode Island wins: 0.5083747812699098
+Probability that Duke wins: 0.9781535155085399
+
+Second round
+South:
+Probability that Virginia wins: 0.8796492322659804
+Probability that Kentucky wins: 0.5563127950903485
+Probability that Tennessee wins: 0.7666326864451476
+Probability that Cincinnati wins: 0.6546814258508392
+East:
+Probability that Villanova wins: 0.8907588553751133
+Probability that West Virginia wins: 0.5943528241785867
+Probability that Texas Tech wins: 0.6222601494362616
+Probability that Purdue wins: 0.7246669864646658
+West:
+Probability that Xavier wins: 0.8148319891500124
+Probability that Gonzaga wins: 0.584458732780992
+Probability that Michigan wins: 0.6843871143775047
+Probability that North Carolina wins: 0.8100080348111194
+Midwest:
+Probability that Kansas wins: 0.7779272889152222
+Probability that Auburn wins: 0.5852578948100635
+Probability that Michigan St wins: 0.747966971787031
+Probability that Duke wins: 0.8824843574421938
+
+Third round
+South:
+Probability that Virginia wins: 0.7954120560783087
+Probability that Cincinnati wins: 0.5616925313476124
+East:
+Probability that Villanova wins: 0.7436448454986682
+Probability that Purdue wins: 0.6765352407181058
+West:
+Probability that Xavier wins: 0.6772067265586232
+Probability that North Carolina wins: 0.5644594595650969
+Midwest:
+Probability that Kansas wins: 0.6917036654871219
+Probability that Duke wins: 0.5092041559077061
+
+Fourth round
+South:
+Probability that Virginia wins: 0.6725714783362938
+East:
+Probability that Villanova wins: 0.6496724132840888
+West:
+Probability that Xavier wins: 0.5244727523735636
+Midwest:
+Probability that Kansas wins: 0.6166804697909175
+
+Fifth round
+Probability that Virginia wins: 0.7151799047051682
+Probability that Villanova wins: 0.5738749334751446
+
+Nation Title
+Probability that Virginia wins: 0.5119661880362891
