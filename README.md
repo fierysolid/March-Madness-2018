@@ -1,6 +1,6 @@
 # March-Madness-2018
 
-Applying machine learning to March Madness (Round 2). Check out my first repo [here](https://github.com/adeshpande3/March-Madness-2017) and my associated [blog post](https://adeshpande3.github.io/adeshpande3.github.io/Applying-Machine-Learning-to-March-Madness).
+Applying machine learning to March Madness (Round 2)
 
 ## Overview
 
