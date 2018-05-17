@@ -24,9 +24,9 @@ In order to run these scripts, you'll need the following libraries.
 * Decide what type of additional data preprocessing might be needed
 
 ## Getting Started
-1. Download and unzip [this entire repository from GitHub](https://github.com/adeshpande3/March-Madness-2018), either interactively, or by entering the following in your Terminal.
+1. Download and unzip [this entire repository from GitHub](https://github.com/fierysolid/March-Madness-2018), either interactively, or by entering the following in your Terminal.
     ```bash
-    git clone https://github.com/adeshpande3/March-Madness-2018.git
+    git clone https://github.com/fierysolid/March-Madness-2018.git
     ```
 2. Navigate into the top directory of the repo on your machine
     ```bash
